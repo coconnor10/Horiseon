@@ -2,7 +2,7 @@
 
 ## Description
 
-The new Horiseon website that meets accessibility standards and has semantic HTML elements. I updated the images to contain descritive alt tags as a free service.
+The new Horiseon website that meets accessibility standards and has semantic HTML elements. I updated the images to contain descritive alt tags as a free service. This app is also responsive to smaller screens using media queries.
 
 ## Screenshot
 
